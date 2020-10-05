@@ -1,4 +1,4 @@
 robotlolita.github.io
 =====================
 
-Personal blog.
+This is a Personal blog.
